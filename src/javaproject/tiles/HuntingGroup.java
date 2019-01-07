@@ -1,4 +1,4 @@
-package Tiles;
+package javaproject.tiles;
 
 import java.util.ArrayList;
 
